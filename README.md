@@ -1,1 +1,1 @@
-Welcome to smol-go
+The profile repository for smol-go
